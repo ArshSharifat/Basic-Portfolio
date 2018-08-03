@@ -1,19 +1,64 @@
-.headbg{
+
+.foot {
+        background-color: #666666;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        padding:15px;
+    }
+
+.headerback {
     background-color: white;
-    width: 1200px;
-    margin: 0;   
+    height: 83px;
+}
+
+.insidebar {
+    width: 960px;
+    height: 97px;
+    margin: auto;
+}
+
+.content {
+    width: 960px;
+    margin: auto;
+}
+
+div.nav {
+    float: right;
+    margin-top: 34px;
+    text-decoration: none;
+}
+
+.arsh {
+    width: 300px;
+    height: 319px;
+    float: left;
+    padding: 0em 1em 1em 0em;
 }
 
 
-
 body{
-    margin: auto;
-    width: 960px;
+
     background-image: url(../images/background.png);
 }
 
 h1{
-    
+
 }
 
 
+li{
+    list-style: none;
+    float: left;
+    margin-right: 2em;
+    
+}
+
+.name {
+    padding: 2em;
+    background-color:#4aaaa5;
+    width: 100px;
+    float: left;
+    color: #ffffff;
