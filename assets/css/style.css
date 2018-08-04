@@ -80,6 +80,7 @@ h2 {
 
 /*===============INDEX/ABOUT ME PAGE CONTENT BOX=====================*/
 .content, #index {
+    width: 954px; 
     height: 465px;
 }
 .arsh {
@@ -96,6 +97,7 @@ p{
 /*===============CONTACT PAGE CONTENT BOX=====================*/
 
 div#con {
+    width: 954px;
     height: auto;
 }
 .container {
@@ -126,7 +128,8 @@ button {
 
 
 /*==============PORTFOLIO PAGE CONTENT BOX=====================*/
-.content, #port{
+.content, #port {
+    width: 914px;
     height: 965px;
 }
 .text-box {
@@ -187,20 +190,3 @@ footer {
 div#bord {
     border-top: solid #4aaaa5 6px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
